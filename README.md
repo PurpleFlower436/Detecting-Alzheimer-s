@@ -5,3 +5,5 @@
 #### Anshul Narang,
 #### Pragya Kansal 
 #### Bhargvi Handa
+
+#### The COMP379_Final_Project python file has the KNN and Logistic Regression implementation.
